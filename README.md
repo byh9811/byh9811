@@ -101,6 +101,8 @@
 > ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 </details>
 
+<hr>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 ✉️ &nbsp;byh9811@naver.com
