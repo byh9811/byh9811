@@ -50,6 +50,57 @@
 
 <hr>
 
+### 💻&nbsp;Project
+<details>
+  <summary>Rualone</summary>
+
+#### 프로젝트 개요
+> https://github.com/Lets-Travel-Well<br>
+> 여행지 검색, 동행 구하기 서비스
+
+#### 맡은 역할
+> batch - 배치 서버 개발<br>
+> backend - 프로필 이미지 관련 기능 개발
+
+#### 주요 기술
+> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+> ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=JPA)&nbsp;
+</details>
+
+<details>
+  <summary>Riding The Wind</summary>
+
+#### 프로젝트 개요
+> https://github.com/zzckckck3/ridingthewind/tree/4team-main<br>
+> 여행지 검색, 계획 수립 서비스
+
+#### 맡은 역할
+> 게시판 관련 기능 개발
+> 댓글 관련 기능 개발
+
+#### 주요 기술
+> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+> ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
+> ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+</details>
+
+<details>
+  <summary>Traditional Liquor Recommendation Service</summary>
+
+#### 프로젝트 개요
+> https://github.com/byh9811/traditional-liquor-recommendation-service<br>
+> 전통주 추천 서비스
+
+#### 맡은 역할
+> 백엔드 개발
+> AWS 환경 배포
+
+#### 주요 기술
+> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+> ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+> ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+</details>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 ✉️ &nbsp;byh9811@naver.com
