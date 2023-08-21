@@ -13,14 +13,16 @@
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
-#### 🌱 &nbsp;자주 사용해온 기술
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-#### 🌱 &nbsp;가끔 사용해온 기술
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate)&nbsp;
+![QueryDSL](https://img.shields.io/badge/-QueryDSL-05122A?style=flat&logo=QueryDSL)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=Swagger)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,9 +31,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;\
-![Docker](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-#### 🌱 &nbsp;사용해 본 적 있는 기술
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
@@ -52,6 +51,23 @@
 
 ### 💻&nbsp;Project
 <details>
+  <summary>Kkini</summary>
+
+#### 프로젝트 개요
+> https://github.com/byh9811/Kkini<br>
+> 프로젝트 서비스
+
+#### 맡은 역할
+> backend - recipe 엔티티 관련 개발 및 post 엔티티 조회 관련 개발<br>
+> infra - AWS 환경 배포 및 자동화
+
+#### 주요 기술
+> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+> ![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
+> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+</details>
+
+<details>
   <summary>Rualone</summary>
 
 #### 프로젝트 개요
@@ -64,7 +80,7 @@
 
 #### 주요 기술
 > ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=JPA)&nbsp;
+> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 </details>
 
 <details>
@@ -75,30 +91,13 @@
 > 여행지 검색, 계획 수립 서비스
 
 #### 맡은 역할
-> 게시판 관련 기능 개발
+> 게시판 관련 기능 개발<br>
 > 댓글 관련 기능 개발
 
 #### 주요 기술
 > ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 > ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
 > ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-</details>
-
-<details>
-  <summary>Traditional Liquor Recommendation Service</summary>
-
-#### 프로젝트 개요
-> https://github.com/byh9811/traditional-liquor-recommendation-service<br>
-> 전통주 추천 서비스
-
-#### 맡은 역할
-> 백엔드 개발
-> AWS 환경 배포
-
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-> ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 </details>
 
 <hr>
