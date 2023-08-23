@@ -42,7 +42,6 @@
 <p align="center">
 <a href="https://github.com/byh9811">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byh9811&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byh9811&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byh9811"/>
 </a>
 </p>
