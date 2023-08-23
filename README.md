@@ -58,7 +58,7 @@
 > 프로젝트 서비스
 
 #### 맡은 역할
-> backend - recipe 엔티티 관련 개발 및 post 엔티티 조회 관련 개발<br>
+> backend - recipe 엔티티 및 post 엔티티 조회 관련 개발<br>
 > infra - AWS 환경 배포 및 자동화
 
 #### 주요 기술
