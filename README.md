@@ -16,35 +16,35 @@
 
 #### BackEnd
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring)&nbsp;
-![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat&logo=JPA)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=JPA)&nbsp;
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-05122A?style=flat&logo=QueryDSL)&nbsp;\
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 #### Infra
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![GCP](https://img.shields.io/badge/-googlecloud-4285F4?style=flat&logo=googlecloud)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
-![Jenkins](https://img.shields.io/badge/-jenkins-D24939?style=flat&logo=jenkins)&nbsp;
-![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-FC6D26?style=flat&logo=gitlab)&nbsp;
+![GCP](https://img.shields.io/badge/-googlecloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
 
 #### FrontEnd
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js)&nbsp;
-![flutter](https://img.shields.io/badge/-flutter-02569B?style=flat&logo=flutter)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 #### AI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)&nbsp;\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)&nbsp;\
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
 
 <hr>
 
@@ -113,9 +113,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-✉️ &nbsp;byh9811@naver.com
-📞 &nbsp;010-7185-2569
-📄 &nbsp;[이력서](https://byh9811.notion.site/3126e266f5c74b2e897f5a83dbd70c04?pvs=4)
+✉️ &nbsp;byh9811@naver.com\
+📞 &nbsp;010-7185-2569\
+📄 &nbsp;[이력서](https://byh9811.notion.site/3126e266f5c74b2e897f5a83dbd70c04?pvs=4)\
 🎨 &nbsp;[포트폴리오](https://byh9811.notion.site/b4387763366a43ea91145408c3a1aa54?pvs=4)
 <hr>
 
