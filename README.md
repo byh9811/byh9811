@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat&logo=JPA)&nbsp;
-![QueryDSL](https://img.shields.io/badge/-QueryDSL-05122A?style=flat&logo=QueryDSL)&nbsp;\
+![QueryDSL](https://img.shields.io/badge/-QueryDSL-05122A?style=flat&logo=QueryDSL)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
@@ -58,58 +58,10 @@
 
 <hr>
 
-### 💻&nbsp;Project
-<details>
-  <summary>Kkini</summary>
+### 🧑‍🤝‍🧑&nbsp;Organization
 
-#### 프로젝트 개요
-> https://github.com/byh9811/Kkini<br>
-> 프로젝트 서비스
-
-#### 맡은 역할
-> backend - recipe 엔티티 및 post 엔티티 조회 관련 개발<br>
-> infra - AWS 환경 배포 및 자동화
-
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
-</details>
-
-<details>
-  <summary>Rualone</summary>
-
-#### 프로젝트 개요
-> https://github.com/Lets-Travel-Well<br>
-> 여행지 검색, 동행 구하기 서비스
-
-#### 맡은 역할
-> batch - 배치 서버 개발<br>
-> backend - 프로필 이미지 관련 기능 개발
-
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
-</details>
-
-<details>
-  <summary>Riding The Wind</summary>
-
-#### 프로젝트 개요
-> https://github.com/zzckckck3/ridingthewind/tree/4team-main<br>
-> 여행지 검색, 계획 수립 서비스
-
-#### 맡은 역할
-> 게시판 관련 기능 개발<br>
-> 댓글 관련 기능 개발
-
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
-> ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-</details>
-
-<hr>
+📄 &nbsp;[RUALONE](https://github.com/Lets-Travel-Well)\
+🎨 &nbsp;[955 STUDY](https://github.com/CS-STUDY-955)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -118,5 +70,3 @@
 📄 &nbsp;[이력서](https://byh9811.notion.site/3126e266f5c74b2e897f5a83dbd70c04?pvs=4)\
 🎨 &nbsp;[포트폴리오](https://byh9811.notion.site/b4387763366a43ea91145408c3a1aa54?pvs=4)
 <hr>
-
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
