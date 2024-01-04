@@ -51,7 +51,7 @@
 ### ⚙️ &nbsp;Backjoon Algorithm Level
 
 <p align="center">
-  <a href="https://solved.ac">
+  <a href="https://www.solved.ac">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byh9811"/>
   </a>
 </p>
