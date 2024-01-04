@@ -1,13 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Soft&theme=tokyonight&height=120&section=header&text=Backend%20Dev%20Bae&fontSize=70&animation=twinkling&stroke=00FF00) -->
-# 안녕하세요! 끊임없이 노력하는 개발자 배용현입니다.
+# 안녕하세요! 소통과 발전에 열려있는 개발자 배용현입니다.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height='150' />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;다른 사람의 의견을 적극적으로 수용하는 편입니다.\
-🎓 &nbsp;긍정적인 표현과 공동체 의식을 통해 편안한 분위기를 만듭니다.\
-🌱 &nbsp;항상 더 좋은 코드가 없을지 고민합니다.\
+💡 &nbsp;어떤 대화든 동료의 의견을 존중하고 일단 듣습니다.\
+🎓 &nbsp;긍정적인 표현을 자주 사용하여 편안한 분위기를 만듭니다.\
+🌱 &nbsp;항상 더 좋은 방식이 없을지 고민하고, 토의하려 합니다.\
 ✍️ &nbsp;MSA에 관심이 많아 공부중입니다.
 
 <hr>
