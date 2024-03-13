@@ -61,12 +61,3 @@
 📄 &nbsp;[RUALONE](https://github.com/Lets-Travel-Well)\
 🎨 &nbsp;[955 STUDY](https://github.com/CS-STUDY-955)
 
-<hr>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-✉️ &nbsp;byh9811@naver.com\
-📞 &nbsp;010-7185-2569\
-📄 &nbsp;[이력서](https://byh9811.notion.site/3126e266f5c74b2e897f5a83dbd70c04?pvs=4)\
-🎨 &nbsp;[포트폴리오](https://byh9811.notion.site/b4387763366a43ea91145408c3a1aa54?pvs=4)
-<hr>
